@@ -11,7 +11,7 @@ Build-Depends: cmake (>= 2.8),
                libjson-glib-dev,
                libpantheon-online-accounts-dev,
                libsoup2.4-dev,
-               valac (>= 0.28) | valac-0.28
+               valac-0.28
 Standards-Version: 3.9.5
 Homepage: https://launchpad.net/gsignond-plugin-lastfm
 Vcs-Bzr: lp:gsignond-plugin-lastfm
