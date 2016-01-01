@@ -11,7 +11,7 @@ Build-Depends: cmake (>= 2.8),
                libjson-glib-dev,
                libpantheon-online-accounts-dev,
                libsoup2.4-dev,
-               valac-0.28
+               valac (>= 0.28)
 Standards-Version: 3.9.5
 Homepage: https://launchpad.net/gsignond-plugin-lastfm
 Vcs-Bzr: lp:gsignond-plugin-lastfm
@@ -23,8 +23,8 @@ Depends: ${misc:Depends},
          ${shlibs:Depends}
 Enhances: switchboard, gsignond, switchboard-plug-online-accounts
 Recommends: pantheon-online-accounts-plugin-lastfm
-Description: gSSO OAuth plugin
- OAuth plugin for GLib based Single Sign-On
+Description: gSSO Last.fm plugin
+ Last.fm plugin for GLib based Single Sign-On
 
 Package: pantheon-online-accounts-plugin-lastfm
 Architecture: any
