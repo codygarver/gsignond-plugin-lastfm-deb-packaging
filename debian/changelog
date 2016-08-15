@@ -1,5 +1,5 @@
-gsignond-plugin-lastfm (0.1.0) UNRELEASED; urgency=low
+gsignond-plugin-lastfm (0.1.0) xenial; urgency=low
 
   * Initial Release.
 
- -- Corentin "tintou" Noël <corentin@elementary.io>  Mon, 27 Mar 2015 11:23:27 +0100
+ -- Cody Garver <cody@elementary.io>  Mon, 15 Aug 2016 10:07:34 -0500
